@@ -1,0 +1,14 @@
+#count{
+    color: red;
+    font-weight: bolder;
+    padding: 50px;
+    padding-right: 30%;
+    padding-left: 30%;
+    border: 45px;
+    border-width: 20px;
+    border-style: ridge;
+    margin: 10%;
+}
+.wait{
+    
+}

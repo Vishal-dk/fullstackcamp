@@ -1,0 +1,22 @@
+h1{
+    color: red;
+    font-weight: bolder;
+    background-color: gold;
+    padding: 50px;
+    padding-left: 30%;
+    border: 45px;
+    border-width: 20px;
+    border-style: ridge;
+    margin: 10%;
+}
+h2{
+  color: red;
+    font-weight: bolder;
+    background-color: gold;
+    padding: 50px;
+    padding-left: 30%;
+    border: 45px;
+    border-width: 20px;
+    border-style: ridge;
+    margin: 10%;
+}
